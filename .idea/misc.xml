@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="sdkName" value="uv (Scraping_selenium_mongodb)" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="uv (Scraping_selenium_mongodb)" project-jdk-type="Python SDK" />
 </project>
